@@ -1,0 +1,41 @@
+.flex-box{
+    height: 600px;
+    overflow-y: scroll;
+    border: 5px solid blueviolet;
+    border-radius: 12px;
+    margin-left: 10%;
+    padding-left: 2%;
+    width: 75%;
+    margin-top: 2%;
+
+
+    
+}
+.box-1{
+    border: 0px solid;
+    padding-left: 3%;
+    box-shadow: 3px 3px 5px 6px #081b525e;
+    width: 40%;
+    height: 220px;
+    margin-bottom: 20px;
+    margin-left: 20%;
+    
+    font-family: fantasy;
+    border-radius: 15px;
+    
+}
+h3{
+    font-size: 32px;
+    padding-left: 35%;
+    color: blueviolet;
+}
+h2{
+    color:blue;
+}
+.emp-info{
+    font-weight: 600;
+}
+span{
+    font-weight: 500;
+    color: #053565;
+}
