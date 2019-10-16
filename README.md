@@ -17,7 +17,8 @@ Node.js and MySQL installed
 1. Clone the repo:
 
 ```
-$ git clone https://github.com/ivan3123708/phone-book-app.git
+$ git clone https://github.com/vijaygehlot/employees-registration.git
+
 ```
 
 2. Add parameters in order to connect to MySQL on your machine:
