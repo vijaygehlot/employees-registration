@@ -23,9 +23,9 @@ $ git clone https://github.com/vijaygehlot/employees-registration.git
 
 2. Add parameters in order to connect to MySQL on your machine:
 
-Create a file named ```dev.js``` and place it inside of ```config/``` directory.
 
-Inside ```dev.js``` paste this block of code, change ```user``` and ```password``` and save the file:
+
+Inside ```/index.js``` paste this block of code, change ```user``` and ```password``` and save the file:
 
 ```
 // Mysql Configuration---
