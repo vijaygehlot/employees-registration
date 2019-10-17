@@ -63,7 +63,7 @@ $ cd ..
 $ npm run start
 ```
 
-6. Run both client and server:
+7. Run both client and server:
 
 ```
 $ cd ..
